@@ -1,0 +1,5 @@
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Cache\bin\Debug\Cache.dll
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Cache\bin\Debug\Cache.pdb
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Cache\obj\Debug\Cache.csprojResolveAssemblyReference.cache
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Cache\obj\Debug\Cache.dll
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Cache\obj\Debug\Cache.pdb

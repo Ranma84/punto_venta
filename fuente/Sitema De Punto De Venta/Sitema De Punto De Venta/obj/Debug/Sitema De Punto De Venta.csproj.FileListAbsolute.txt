@@ -1,0 +1,56 @@
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Sitema De Punto De Venta.exe.config
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Sitema De Punto De Venta.exe
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Sitema De Punto De Venta.pdb
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.csprojResolveAssemblyReference.cache
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Inicio.resources
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Properties.Resources.resources
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Sistema_Principal.resources
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.csproj.GenerateResource.Cache
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.exe
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.pdb
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Ventas.resources
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Loguin.resources
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Registro_Usuarios.resources
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.csprojResolveAssemblyReference.cache
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Inicio.resources
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Loguin.resources
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Productos.resources
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Properties.Resources.resources
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Registro_Usuarios.resources
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Sistema_Principal.resources
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Ventas.resources
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.csproj.GenerateResource.Cache
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.exe
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.pdb
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Sitema De Punto De Venta.exe.config
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Sitema De Punto De Venta.exe
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Sitema De Punto De Venta.pdb
+D:\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Sitema De Punto De Venta.exe.config
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Sitema De Punto De Venta.exe
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Sitema De Punto De Venta.pdb
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Inicio.resources
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Loguin.resources
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Productos.resources
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Properties.Resources.resources
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Registro_Usuarios.resources
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Sistema_Principal.resources
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Ventas.resources
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.exe
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema De Punto De Venta.pdb
+C:\Users\User\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Registro_De_Bodegas.resources
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Registro_De_Bodegas.resources
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\obj\Debug\Sitema_De_Punto_De_Venta.Registro_Productos.resources
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Clases.dll
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Logica Negocio.dll
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Acceso De Datos.dll
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Clases.pdb
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Logica Negocio.pdb
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Acceso De Datos.pdb
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Cache.dll
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Sitema De Punto De Venta\bin\Debug\Cache.pdb

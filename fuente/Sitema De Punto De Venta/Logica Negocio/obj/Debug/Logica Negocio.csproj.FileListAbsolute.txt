@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Sitema De Punto De Venta\Logica Negocio\bin\Debug\Logica Negocio.dll
+C:\Users\User\Desktop\Sitema De Punto De Venta\Logica Negocio\bin\Debug\Logica Negocio.pdb
+C:\Users\User\Desktop\Sitema De Punto De Venta\Logica Negocio\obj\Debug\Logica Negocio.dll
+C:\Users\User\Desktop\Sitema De Punto De Venta\Logica Negocio\obj\Debug\Logica Negocio.pdb
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Logica Negocio\bin\Debug\Logica Negocio.dll
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Logica Negocio\bin\Debug\Logica Negocio.pdb
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Logica Negocio\obj\Debug\Logica Negocio.dll
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Logica Negocio\obj\Debug\Logica Negocio.pdb
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Logica Negocio\bin\Debug\Acceso De Datos.dll
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Logica Negocio\bin\Debug\Acceso De Datos.pdb
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Logica Negocio\obj\Debug\Logica Negocio.csprojResolveAssemblyReference.cache
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Logica Negocio\bin\Debug\Cache.dll
+C:\Users\darks\Desktop\Sitema De Punto De Venta\Logica Negocio\bin\Debug\Cache.pdb
