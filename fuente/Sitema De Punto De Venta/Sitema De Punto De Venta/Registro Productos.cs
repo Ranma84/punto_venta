@@ -66,7 +66,8 @@ namespace Sitema_De_Punto_De_Venta
             {
                 ObjetCN.Productos(Txt_Codigo.Text, Txt_Nom_Produc.Text, Lbl_Usuario.Text, Convert.ToDateTime(Lbl_Fecha_Hora.Text), Lbl_Usuario.Text, Convert.ToDateTime(Lbl_Fecha_Hora.Text), Txt_Nombre.Text);
                 MessageBox.Show("Se Inserto Correctamente");
-
+                MostrarProdctos();
+                    
             }
             catch (Exception ex)
             {

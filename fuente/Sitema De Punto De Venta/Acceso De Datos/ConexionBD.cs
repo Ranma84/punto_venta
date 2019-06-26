@@ -12,7 +12,7 @@ namespace Acceso_De_Datos
 
     public class CD_Conexion
     {
-        private SqlConnection Conexion = new SqlConnection("Server=DESKTOP-UEPK13H\\RONETJOHN;DataBase= Practica;Integrated Security=true");
+        private SqlConnection Conexion = new SqlConnection("Server=DESKTOP-30HBJFJ;DataBase= PuntoVenta;Integrated Security=true");
 
         public SqlConnection AbrirConexion()
         {

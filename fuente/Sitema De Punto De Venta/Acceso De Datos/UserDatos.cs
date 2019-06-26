@@ -15,7 +15,6 @@ namespace Acceso_De_Datos
             {
             using (var connection = AbrirConexion())
             {
-                connection.Open();
                 using (var command = new SqlCommand())
                 {
                     command.Connection = connection;

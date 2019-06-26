@@ -84,7 +84,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(907, 31);
+            this.panel1.Size = new System.Drawing.Size(943, 31);
             this.panel1.TabIndex = 27;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -92,7 +92,7 @@
             // 
             this.But_Minimiza.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.But_Minimiza.Image = ((System.Drawing.Image)(resources.GetObject("But_Minimiza.Image")));
-            this.But_Minimiza.Location = new System.Drawing.Point(856, 7);
+            this.But_Minimiza.Location = new System.Drawing.Point(892, 7);
             this.But_Minimiza.Name = "But_Minimiza";
             this.But_Minimiza.Size = new System.Drawing.Size(17, 17);
             this.But_Minimiza.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -104,7 +104,7 @@
             // 
             this.But_Cerrar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.But_Cerrar.Image = ((System.Drawing.Image)(resources.GetObject("But_Cerrar.Image")));
-            this.But_Cerrar.Location = new System.Drawing.Point(879, 7);
+            this.But_Cerrar.Location = new System.Drawing.Point(915, 7);
             this.But_Cerrar.Name = "But_Cerrar";
             this.But_Cerrar.Size = new System.Drawing.Size(17, 17);
             this.But_Cerrar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -118,9 +118,9 @@
             this.groupBox2.Controls.Add(this.label8);
             this.groupBox2.Controls.Add(this.Lbl_Usuario);
             this.groupBox2.Controls.Add(this.label7);
-            this.groupBox2.Location = new System.Drawing.Point(12, 430);
+            this.groupBox2.Location = new System.Drawing.Point(12, 473);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(884, 50);
+            this.groupBox2.Size = new System.Drawing.Size(919, 50);
             this.groupBox2.TabIndex = 29;
             this.groupBox2.TabStop = false;
             this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
@@ -175,7 +175,7 @@
             this.groupBox1.Controls.Add(this.groupBox3);
             this.groupBox1.Location = new System.Drawing.Point(12, 88);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(884, 243);
+            this.groupBox1.Size = new System.Drawing.Size(919, 243);
             this.groupBox1.TabIndex = 28;
             this.groupBox1.TabStop = false;
             // 
@@ -183,7 +183,7 @@
             // 
             this.groupBox6.Controls.Add(this.Lbl_Hora);
             this.groupBox6.Controls.Add(this.label9);
-            this.groupBox6.Location = new System.Drawing.Point(680, 11);
+            this.groupBox6.Location = new System.Drawing.Point(701, 10);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Size = new System.Drawing.Size(196, 49);
             this.groupBox6.TabIndex = 33;
@@ -236,7 +236,7 @@
             this.groupBox5.Controls.Add(this.But_Registrar);
             this.groupBox5.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold);
             this.groupBox5.ForeColor = System.Drawing.Color.White;
-            this.groupBox5.Location = new System.Drawing.Point(681, 59);
+            this.groupBox5.Location = new System.Drawing.Point(702, 58);
             this.groupBox5.Name = "groupBox5";
             this.groupBox5.Size = new System.Drawing.Size(195, 167);
             this.groupBox5.TabIndex = 32;
@@ -298,7 +298,7 @@
             this.groupBox3.Controls.Add(this.label5);
             this.groupBox3.Controls.Add(this.label);
             this.groupBox3.Controls.Add(this.label3);
-            this.groupBox3.Location = new System.Drawing.Point(198, 11);
+            this.groupBox3.Location = new System.Drawing.Point(209, 11);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(476, 215);
             this.groupBox3.TabIndex = 14;
@@ -307,7 +307,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(240, 63);
+            this.pictureBox2.Location = new System.Drawing.Point(240, 65);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(25, 25);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -317,7 +317,7 @@
             // Txt_Nombre
             // 
             this.Txt_Nombre.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Txt_Nombre.Location = new System.Drawing.Point(84, 130);
+            this.Txt_Nombre.Location = new System.Drawing.Point(84, 132);
             this.Txt_Nombre.Name = "Txt_Nombre";
             this.Txt_Nombre.Size = new System.Drawing.Size(90, 25);
             this.Txt_Nombre.TabIndex = 29;
@@ -325,7 +325,7 @@
             // Txt_Nom_Produc
             // 
             this.Txt_Nom_Produc.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Txt_Nom_Produc.Location = new System.Drawing.Point(206, 95);
+            this.Txt_Nom_Produc.Location = new System.Drawing.Point(206, 97);
             this.Txt_Nom_Produc.Name = "Txt_Nom_Produc";
             this.Txt_Nom_Produc.Size = new System.Drawing.Size(254, 25);
             this.Txt_Nom_Produc.TabIndex = 28;
@@ -333,7 +333,7 @@
             // Txt_Codigo
             // 
             this.Txt_Codigo.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Txt_Codigo.Location = new System.Drawing.Point(86, 63);
+            this.Txt_Codigo.Location = new System.Drawing.Point(86, 65);
             this.Txt_Codigo.Name = "Txt_Codigo";
             this.Txt_Codigo.Size = new System.Drawing.Size(145, 25);
             this.Txt_Codigo.TabIndex = 27;
@@ -343,7 +343,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(10, 97);
+            this.label5.Location = new System.Drawing.Point(10, 99);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(194, 22);
             this.label5.TabIndex = 25;
@@ -354,7 +354,7 @@
             this.label.AutoSize = true;
             this.label.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label.ForeColor = System.Drawing.Color.White;
-            this.label.Location = new System.Drawing.Point(10, 131);
+            this.label.Location = new System.Drawing.Point(10, 133);
             this.label.Name = "label";
             this.label.Size = new System.Drawing.Size(68, 22);
             this.label.TabIndex = 24;
@@ -365,7 +365,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(10, 63);
+            this.label3.Location = new System.Drawing.Point(10, 65);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(74, 22);
             this.label3.TabIndex = 23;
@@ -376,7 +376,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(317, 43);
+            this.label2.Location = new System.Drawing.Point(335, 43);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(289, 32);
             this.label2.TabIndex = 30;
@@ -390,9 +390,9 @@
             // groupBox7
             // 
             this.groupBox7.Controls.Add(this.dataGridView1);
-            this.groupBox7.Location = new System.Drawing.Point(12, 329);
+            this.groupBox7.Location = new System.Drawing.Point(12, 337);
             this.groupBox7.Name = "groupBox7";
-            this.groupBox7.Size = new System.Drawing.Size(611, 101);
+            this.groupBox7.Size = new System.Drawing.Size(612, 136);
             this.groupBox7.TabIndex = 49;
             this.groupBox7.TabStop = false;
             // 
@@ -401,14 +401,14 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(11, 14);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(590, 76);
+            this.dataGridView1.Size = new System.Drawing.Size(590, 114);
             this.dataGridView1.TabIndex = 0;
             // 
             // groupBox8
             // 
-            this.groupBox8.Location = new System.Drawing.Point(630, 329);
+            this.groupBox8.Location = new System.Drawing.Point(630, 336);
             this.groupBox8.Name = "groupBox8";
-            this.groupBox8.Size = new System.Drawing.Size(266, 101);
+            this.groupBox8.Size = new System.Drawing.Size(301, 137);
             this.groupBox8.TabIndex = 50;
             this.groupBox8.TabStop = false;
             // 
@@ -417,13 +417,13 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(104)))), ((int)(((byte)(131)))));
-            this.ClientSize = new System.Drawing.Size(907, 493);
+            this.ClientSize = new System.Drawing.Size(943, 533);
+            this.Controls.Add(this.groupBox8);
+            this.Controls.Add(this.groupBox7);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.groupBox7);
-            this.Controls.Add(this.groupBox8);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Registro_Productos";

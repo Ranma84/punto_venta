@@ -32,9 +32,10 @@ namespace Acceso_De_Datos
         public void Productos(string Codigo, string NombrePro, string UsuarioCre, DateTime FechaCre, string UsuarioModi, DateTime FechaModi, string Precio)
         {
 
-                connection.AbrirConexion();
-                command.CommandText = "Insert Into dbo.tbProducto Values ('"+ Codigo + "' , '" + NombrePro + "','" + UsuarioCre + "','" + FechaCre + "','" + UsuarioModi + "','" + FechaModi + "', '" + Precio + "')";
-                command.ExecuteNonQuery();
+            command.Connection = connection.AbrirConexion();
+            command.CommandText = "Insert Into dbo.tbProducto Values ('0','"+ Codigo + "' , '" + NombrePro + "','" + UsuarioCre + "','" + FechaCre + "','" + UsuarioModi + "','" + FechaModi + "', '" + Precio + "')";
+            command.ExecuteNonQuery();
+            connection.CerrarConexion();
 
         }
     }
