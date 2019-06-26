@@ -65,8 +65,7 @@ namespace Sitema_De_Punto_De_Venta
 
         private void Loguin_Load(object sender, EventArgs e)
         {
-            //ac conexion = new ConexionBD();
-            //conexion.abrir();
+           
         }
 
         private void But_Cerrar_Click(object sender, EventArgs e)
@@ -96,7 +95,7 @@ namespace Sitema_De_Punto_De_Venta
                             this.Hide();
                         }
                         else {
-                            msgError("Está Incorrecto El Usuario o La Contraseña Insertada.\n PorFavor Vuelva a Intentarlo.");
+                            msgError("Está Incorrecto El Usuario o La Contraseña Insertada.\nPorFavor Vuelva a Intentarlo.");
                             Txt_Contraseña.Text = "Contraseña";
                             Txt_Contraseña.UseSystemPasswordChar = false;
                             Txt_Usuarios.Focus();
@@ -108,7 +107,7 @@ namespace Sitema_De_Punto_De_Venta
             }
         private void msgError(string msg)
         {
-            lblErrorMessage.Text = "  " + msg;
+            lblErrorMessage.Text = msg;
             lblErrorMessage.Visible = true;
         }
         private void Logout(object sender, FormClosedEventArgs e)
@@ -120,5 +119,9 @@ namespace Sitema_De_Punto_De_Venta
             this.Show();
         }
 
+        private void label2_MouseLeave(object sender, EventArgs e)
+        {
+           
+        }
     }
 }

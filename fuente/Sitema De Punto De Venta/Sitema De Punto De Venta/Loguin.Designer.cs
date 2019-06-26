@@ -38,10 +38,10 @@
             this.Txt_Contraseña = new System.Windows.Forms.TextBox();
             this.But_Login = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.But_Minimiza = new System.Windows.Forms.PictureBox();
             this.But_Cerrar = new System.Windows.Forms.PictureBox();
             this.lblErrorMessage = new System.Windows.Forms.Label();
+            this.linkpass = new System.Windows.Forms.LinkLabel();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.But_Minimiza)).BeginInit();
@@ -87,8 +87,8 @@
             this.lineShape2.Name = "lineShape2";
             this.lineShape2.X1 = 279;
             this.lineShape2.X2 = 666;
-            this.lineShape2.Y1 = 181;
-            this.lineShape2.Y2 = 181;
+            this.lineShape2.Y1 = 166;
+            this.lineShape2.Y2 = 166;
             // 
             // lineShape1
             // 
@@ -122,7 +122,7 @@
             this.Txt_Contraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Txt_Contraseña.ForeColor = System.Drawing.Color.White;
             this.Txt_Contraseña.HideSelection = false;
-            this.Txt_Contraseña.Location = new System.Drawing.Point(283, 158);
+            this.Txt_Contraseña.Location = new System.Drawing.Point(283, 143);
             this.Txt_Contraseña.Name = "Txt_Contraseña";
             this.Txt_Contraseña.Size = new System.Drawing.Size(388, 19);
             this.Txt_Contraseña.TabIndex = 3;
@@ -137,7 +137,7 @@
             this.But_Login.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.But_Login.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.But_Login.ForeColor = System.Drawing.Color.White;
-            this.But_Login.Location = new System.Drawing.Point(279, 224);
+            this.But_Login.Location = new System.Drawing.Point(279, 228);
             this.But_Login.Name = "But_Login";
             this.But_Login.Size = new System.Drawing.Size(389, 40);
             this.But_Login.TabIndex = 4;
@@ -155,17 +155,6 @@
             this.label1.Size = new System.Drawing.Size(104, 31);
             this.label1.TabIndex = 5;
             this.label1.Text = "LOGIN";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(390, 268);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(173, 16);
-            this.label2.TabIndex = 6;
-            this.label2.Text = "¿Has Olvidado Contaseña?";
             // 
             // But_Minimiza
             // 
@@ -194,14 +183,26 @@
             // lblErrorMessage
             // 
             this.lblErrorMessage.AutoSize = true;
-            this.lblErrorMessage.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblErrorMessage.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblErrorMessage.ForeColor = System.Drawing.Color.White;
-            this.lblErrorMessage.Image = ((System.Drawing.Image)(resources.GetObject("lblErrorMessage.Image")));
             this.lblErrorMessage.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lblErrorMessage.Location = new System.Drawing.Point(282, 195);
+            this.lblErrorMessage.Location = new System.Drawing.Point(283, 184);
             this.lblErrorMessage.Name = "lblErrorMessage";
-            this.lblErrorMessage.Size = new System.Drawing.Size(0, 16);
+            this.lblErrorMessage.Size = new System.Drawing.Size(0, 15);
             this.lblErrorMessage.TabIndex = 9;
+            // 
+            // linkpass
+            // 
+            this.linkpass.ActiveLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.linkpass.AutoSize = true;
+            this.linkpass.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkpass.LinkColor = System.Drawing.Color.White;
+            this.linkpass.Location = new System.Drawing.Point(382, 271);
+            this.linkpass.Name = "linkpass";
+            this.linkpass.Size = new System.Drawing.Size(182, 17);
+            this.linkpass.TabIndex = 10;
+            this.linkpass.TabStop = true;
+            this.linkpass.Text = "¿Ha olvidado contraseña?";
             // 
             // Loguin
             // 
@@ -209,10 +210,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(104)))), ((int)(((byte)(131)))));
             this.ClientSize = new System.Drawing.Size(701, 298);
+            this.Controls.Add(this.linkpass);
             this.Controls.Add(this.lblErrorMessage);
             this.Controls.Add(this.But_Minimiza);
             this.Controls.Add(this.But_Cerrar);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.But_Login);
             this.Controls.Add(this.Txt_Contraseña);
@@ -246,9 +247,9 @@
         private System.Windows.Forms.TextBox Txt_Contraseña;
         private System.Windows.Forms.Button But_Login;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox But_Minimiza;
         private System.Windows.Forms.PictureBox But_Cerrar;
         private System.Windows.Forms.Label lblErrorMessage;
+        private System.Windows.Forms.LinkLabel linkpass;
     }
 }

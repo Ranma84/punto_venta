@@ -147,6 +147,10 @@
     <None Include="Resources\Fondo Del Contenedor1.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Acceso De Datos\Acceso De Datos.csproj">
+      <Project>{1eaf5886-45de-45e7-81c7-0d47de910dab}</Project>
+      <Name>Acceso De Datos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Cache\Cache.csproj">
       <Project>{aedca7dd-dc21-4d78-b5e8-0789e164d1cc}</Project>
       <Name>Cache</Name>

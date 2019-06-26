@@ -9,48 +9,26 @@ using System.Data;
 namespace Acceso_De_Datos
 
 {
-    //public class ConexionBD
-    //{
 
-    //    string cadena = ();
-    //    public SqlConnection conetarDB = new SqlConnection();
-
-    //    public ConexionBD()
-    //    {
-    //        conetarDB.ConnectionString = cadena;
-    //    }
-    //    public void abrir()
-    //    {
-    //        try
-    //        {
-    //            conetarDB.Open();
-    //            Console.WriteLine("Conexion Abierta");
-    //        }
-    //        catch (Exception ex)
-    //        {
-    //            Console.WriteLine("Error Al Abrir la BD", ex.Message);
-    //        }
-    //    }
-
-    //    public void Cerra()
-    //    {
-    //        conetarDB.Close();
-    //    }
-
-    public abstract class ConnectionToSql
+    public class CD_Conexion
     {
-            private readonly string connectionString;
+        private SqlConnection Conexion = new SqlConnection("Server=DESKTOP-UEPK13H\\RONETJOHN;DataBase= Practica;Integrated Security=true");
 
-            public ConnectionToSql()
-            {
-                connectionString = "server=DESKTOP-30HBJFJ;DataBase=PuntoVenta; integrated security = true";
-            }
-            protected SqlConnection GetConnection()
-            {
-                return new SqlConnection(connectionString);
-            }
+        public SqlConnection AbrirConexion()
+        {
+            if (Conexion.State == ConnectionState.Closed)
+                Conexion.Open();
+            return Conexion;
         }
 
+        public SqlConnection CerrarConexion()
+        {
+            if (Conexion.State == ConnectionState.Open)
+                Conexion.Close();
+            return Conexion;
+        }
     }
+
+}
 
 //}

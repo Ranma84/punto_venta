@@ -1184,28 +1184,10 @@
 </value>
   </data>
   <metadata name="lineShape2.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>279, 181, 387, 0</value>
+    <value>279, 166, 387, 0</value>
   </metadata>
   <metadata name="lineShape2.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>279, 181</value>
-  </metadata>
-  <metadata name="lineShape2.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>387, 0</value>
-  </metadata>
-  <metadata name="lineShape1.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>281, 108, 387, 0</value>
-  </metadata>
-  <metadata name="lineShape1.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>281, 108</value>
-  </metadata>
-  <metadata name="lineShape1.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>387, 0</value>
-  </metadata>
-  <metadata name="lineShape2.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>279, 181, 387, 0</value>
-  </metadata>
-  <metadata name="lineShape2.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>279, 181</value>
+    <value>279, 166</value>
   </metadata>
   <metadata name="lineShape2.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>387, 0</value>
@@ -1289,34 +1271,6 @@
         em6Sx46InvsFHj95J3peku+9Ez0P4RG8Gj0jyetejZ7xEB4f2Bp9N8nrXo2e8RQen9gSfS/JPluj734L
         j098F30nyfueRX+/CR43+hh9nuRYFP3dZnjc6GP0eZLjfYw+fwkek6wBj0nWgMcka8BjkjXgMcka8Jhk
         DXhMsoK///ofyoZpEJqxYHgAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="lblErrorMessage.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        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
-        rlGdt0Y6ejwEd4IUuSQL1cEAAAAASUVORK5CYII=
 </value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
