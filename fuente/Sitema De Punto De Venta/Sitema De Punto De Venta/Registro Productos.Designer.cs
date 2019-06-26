@@ -36,7 +36,7 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.Lbl_Fecha_Hora = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.Lbl_Usuario = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
@@ -116,13 +116,14 @@
             // 
             this.groupBox2.Controls.Add(this.Lbl_Fecha_Hora);
             this.groupBox2.Controls.Add(this.label8);
-            this.groupBox2.Controls.Add(this.label1);
+            this.groupBox2.Controls.Add(this.Lbl_Usuario);
             this.groupBox2.Controls.Add(this.label7);
             this.groupBox2.Location = new System.Drawing.Point(12, 430);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(884, 50);
             this.groupBox2.TabIndex = 29;
             this.groupBox2.TabStop = false;
+            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
             // Lbl_Fecha_Hora
             // 
@@ -145,15 +146,15 @@
             this.label8.TabIndex = 20;
             this.label8.Text = "Fecha:";
             // 
-            // label1
+            // Lbl_Usuario
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(91, 17);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(0, 22);
-            this.label1.TabIndex = 19;
+            this.Lbl_Usuario.AutoSize = true;
+            this.Lbl_Usuario.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Lbl_Usuario.ForeColor = System.Drawing.Color.White;
+            this.Lbl_Usuario.Location = new System.Drawing.Point(91, 17);
+            this.Lbl_Usuario.Name = "Lbl_Usuario";
+            this.Lbl_Usuario.Size = new System.Drawing.Size(0, 22);
+            this.Lbl_Usuario.TabIndex = 19;
             // 
             // label7
             // 
@@ -286,6 +287,7 @@
             this.But_Registrar.TabIndex = 0;
             this.But_Registrar.Text = "Registrar";
             this.But_Registrar.UseVisualStyleBackColor = false;
+            this.But_Registrar.Click += new System.EventHandler(this.But_Registrar_Click);
             // 
             // groupBox3
             // 
@@ -476,7 +478,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label Lbl_Usuario;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Timer Fecha_Hora;
         private System.Windows.Forms.GroupBox groupBox7;
