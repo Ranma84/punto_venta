@@ -8,3 +8,8 @@ C:\Users\darks\Desktop\Sitema De Punto De Venta\Clases\bin\Debug\Clases.pdb
 C:\Users\darks\Desktop\Sitema De Punto De Venta\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
 C:\Users\darks\Desktop\Sitema De Punto De Venta\Clases\obj\Debug\Clases.dll
 C:\Users\darks\Desktop\Sitema De Punto De Venta\Clases\obj\Debug\Clases.pdb
+C:\Users\darks\Desktop\repositorio\punto_venta\fuente\Sitema De Punto De Venta\Clases\bin\Debug\Clases.dll
+C:\Users\darks\Desktop\repositorio\punto_venta\fuente\Sitema De Punto De Venta\Clases\bin\Debug\Clases.pdb
+C:\Users\darks\Desktop\repositorio\punto_venta\fuente\Sitema De Punto De Venta\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\darks\Desktop\repositorio\punto_venta\fuente\Sitema De Punto De Venta\Clases\obj\Debug\Clases.dll
+C:\Users\darks\Desktop\repositorio\punto_venta\fuente\Sitema De Punto De Venta\Clases\obj\Debug\Clases.pdb
